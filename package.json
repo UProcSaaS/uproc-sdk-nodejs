@@ -27,5 +27,12 @@
   "bugs": {
     "url": "https://github.com/mcolomer/uproc-sdk-nodejs/issues"
   },
-  "homepage": "https://github.com/mcolomer/uproc-sdk-nodejs"
+  "homepage": "https://github.com/mcolomer/uproc-sdk-nodejs",
+  "dependencies": {
+    "request": "^2.73.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^2.5.3"
+  }
 }
