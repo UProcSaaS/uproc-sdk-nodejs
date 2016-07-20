@@ -1,0 +1,31 @@
+{
+  "name": "uproc-sdk-nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs sdk for uProc data quality service",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcolomer/uproc-sdk-nodejs.git"
+  },
+  "keywords": [
+    "data",
+    "quality",
+    "api",
+    "normalization",
+    "validation",
+    "completion",
+    "deduplication"
+  ],
+  "author": "Miquel Colomer <mcolomer@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mcolomer/uproc-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/mcolomer/uproc-sdk-nodejs"
+}
